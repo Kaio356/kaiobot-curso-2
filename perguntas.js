@@ -17,7 +17,18 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Tema HTML',
+    'Para que serve a tag <a>',
+    'Criar links'
 )
+
+criaCartao(
+    'Tema HTML',
+    'Para que serve a tag <div>',
+    'Um conteiner de bloco para agrupar elementos'
+)
+
+criaCartao(
+    'Tema HTML',
+    'Como criar uma lista numerada',
+    'Use a tag <ol> com <li>'
