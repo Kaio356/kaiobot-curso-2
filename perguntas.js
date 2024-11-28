@@ -1,35 +1,35 @@
 criaCartao(
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual a capital da França?',
+    'Paris'
+)
+
+criaCartao(
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
+)
+
+criaCartao (
+    'CSS',
+    'Como mudar a cor de fundo com CSS?',
+    'Use background-color'
+)
+
+criaCartao (
+    'JavaScript',
+    'O que é JavaScript?',
+    'Linguagem para adicionar interatividade em páginas web'
+)
+
+criaCartao (
     'CSS',
     'O que é CSS?',
     'É uma linguagem para estilizar páginas HTML'
-)
-
-criaCartao(
-    'CSS',
-    'Para que serve o id no CSS?',
-    'Estilizar um elemento único'
-)
-
-criaCartao(
-    'CSS',
-    'Como mudar a cor de fundo com CSS?',
-    'Use backgroun-color'
-)
-
-criaCartao(
-    'Tema HTML',
-    'Para que serve a tag <a>'
-    'Criar links'
-)
-
-criaCartao(
-    'Tema HTML',
-    'Para que serve a tag <div>',
-    'Um conteiner de bloco para agrupar elementos'
-)
-
-criaCartao(
-    'Tema HTML',
-    'Como criar uma lista numerada',
-    'Use a tag <ol> com <li>'
 )
